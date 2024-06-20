@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCM12SMTR")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/symbols/PCM12SMTR.kicad_sym")(options "")(descr ""))
+  (lib (name "PCM13SMTR")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/symbols/PCM13SMTR.kicad_sym")(options "")(descr ""))
+)
