@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JST-PH-2-SMT")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/JST-PH-2-SMT.pretty")(options "")(descr ""))
+  (lib (name "MCP73831T-2ACI_OT")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/MCP73831T-2ACI_OT.pretty")(options "")(descr ""))
+  (lib (name "S16-4148E3")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/S16-4148E3.pretty")(options "")(descr ""))
+  (lib (name "CherryMX")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/CherryMX.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_KailhSocket")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/CherryMX_KailhSocket.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_PCB")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/CherryMX_PCB.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_PCB_KailhSocket")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/CherryMX_PCB_KailhSocket.pretty")(options "")(descr ""))
+  (lib (name "PCM_Slide_SW")(type "KiCad")(uri "C:/Users/kelvi/projects/split-keyboard/kicad-libraries/footprints/PCM_Slide_SW.pretty")(options "")(descr ""))
+)
