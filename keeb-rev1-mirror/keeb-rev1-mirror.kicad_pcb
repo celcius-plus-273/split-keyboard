@@ -7132,7 +7132,7 @@
 		(descr "Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package")
 		(tags "SMD SMT crystal")
 		(property "Reference" "Y101"
-			(at -0.179605 -2.514472 315)
+			(at -0.179605 -2.514472 -45)
 			(layer "B.SilkS")
 			(uuid "a79fcb5c-d99a-40b5-905a-3e29368051c9")
 			(effects
@@ -7144,7 +7144,7 @@
 			)
 		)
 		(property "Value" "16 MHz"
-			(at 0 -2.450001 315)
+			(at 0 -2.450001 -45)
 			(layer "B.Fab")
 			(uuid "fbeb4602-a4e2-438e-827c-6de8eb6fd1e6")
 			(effects
@@ -7350,7 +7350,7 @@
 			(uuid "00ec0928-c971-447e-bc45-0085fdafcb1a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 315)
+			(at 0 0 -45)
 			(layer "B.Fab")
 			(uuid "060ce9ca-7f2d-45dc-891a-545d43277b7c")
 			(effects
@@ -9106,7 +9106,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D123"
-			(at 0 1.397 360)
+			(at 0 1.397 0)
 			(layer "B.SilkS")
 			(uuid "953282a7-5fc0-4a73-ae3b-3aa70182b5d1")
 			(effects
@@ -9118,7 +9118,7 @@
 			)
 		)
 		(property "Value" "GREEN"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "7b83f76d-ee7a-4b0e-a6a7-cbb21110bcc6")
 			(effects
@@ -9294,7 +9294,7 @@
 			(uuid "6478d2e9-6f38-4442-9cf4-a0a019adba38")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "fdfe6df1-78c4-4a24-8a00-e34c182a1898")
 			(effects
@@ -10542,7 +10542,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D122"
-			(at 0 1.397 360)
+			(at 0 1.397 0)
 			(layer "B.SilkS")
 			(uuid "e6d638c0-ddc7-44bc-a468-ef3f4e1c989b")
 			(effects
@@ -10554,7 +10554,7 @@
 			)
 		)
 		(property "Value" "GREEN"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "6adcc7a6-2b09-4162-8627-d657ab9cb70b")
 			(effects
@@ -10730,7 +10730,7 @@
 			(uuid "93f5abc1-3ffc-4ff6-9829-e40a79fa2aa4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "31290579-a5d7-478d-bfdf-2275efe4ac7d")
 			(effects
@@ -14254,7 +14254,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C102"
-			(at 0.254 1.43 360)
+			(at 0.254 1.43 0)
 			(layer "B.SilkS")
 			(uuid "67dfe179-fb67-4a97-a01b-ab137b34402a")
 			(effects
@@ -14266,7 +14266,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "bcfcb8ab-5cad-410e-8c89-a1048c75cbb8")
 			(effects
@@ -14422,7 +14422,7 @@
 			(uuid "2592b5b1-b46d-4cc7-a2eb-3691d2dfc055")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "3a2acdb5-305a-4e4b-b8f2-da853609c223")
 			(effects
@@ -15268,7 +15268,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C103"
-			(at -3.4036 -0.0508 270)
+			(at -3.4036 -0.0508 -90)
 			(layer "B.SilkS")
 			(uuid "9cbd06b5-802e-46cc-98da-6a6eb5ed44c6")
 			(effects
@@ -15280,7 +15280,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 -1.43 270)
+			(at 0 -1.43 -90)
 			(layer "B.Fab")
 			(uuid "fd58ee2a-57f3-49ae-bc69-27668b28549b")
 			(effects
@@ -15436,7 +15436,7 @@
 			(uuid "7c487852-272f-4c9a-b082-f3f007f1a2e9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "38fe7b33-54aa-433b-9abe-3812a2cfdf0f")
 			(effects
@@ -17011,6 +17011,7 @@
 					(size 0.5 0.5)
 					(thickness 0.1)
 				)
+				(justify mirror)
 			)
 		)
 		(fp_text user "${REFERENCE}"
